@@ -1,3 +1,17 @@
 html {
     background-color: rgb(114, 202, 202);
 }
+
+.square-list {
+    list-style-type: square;
+    color:blueviolet
+}
+
+.letters-list {
+    list-style-type: upper-alpha;
+
+}
+
+.nav {
+    list-style-type: none;
+}
