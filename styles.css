@@ -15,3 +15,10 @@ html {
 .nav {
     list-style-type: none;
 }
+.nav {
+    list-style-type: none;
+    background-color: pink;
+    padding: 30px;
+    
+    margin-bottom: 100px;
+}
